@@ -1,0 +1,60 @@
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: powderblue;
+    border-style: solid;
+    border-color: red;
+  }
+
+.span1{
+    color: red;
+}
+
+
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    border-style: solid;
+    border-color: green;
+  }
+
+.span2{
+    color: green;
+}
+
+.div3{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: black;
+  }
+
+.span3{
+    color: black;
+}
+
+.div4{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border-style: solid;
+    border-color: blue;
+  }
+
+.span4{
+    color: blue;
+}
+
+.div5{
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    border-style: solid;
+    border-color: yellow;
+  }
+
+.span5{
+    color: yellow;
+}
